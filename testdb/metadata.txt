@@ -1,0 +1,3 @@
+database_name=testdb
+tables=people
+table_people=id;INT;true,name;VARCHAR(255);false
